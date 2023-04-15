@@ -1,0 +1,12 @@
+在cdn里打开git bash
+然后git add .
+git commit -m '我说什么？'
+git push
+
+
+这样就上传到git hub里面的仓库了
+
+git clone +仓库code的ssh代码就是把仓库拷贝到本地
+上面那些操作就是在对应的本地仓库里上传到git hub里面的仓库了
+
+然后使用jsdelivr就是https://cdn.jsdelivr.net/gh/RainandredLeaves/cdn@1.0/4.jpg按照这个格式加速图片调用
